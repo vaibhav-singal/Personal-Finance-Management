@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import toast from "react-hot-toast";
 
-import DashboardLayout from "../../components/Layouts/DashboardLayout";
+import DashboardLayout from "../../components/layouts/DashboardLayout";
 import ExpenseOverview from "../../components/Expense/ExpenseOverview";
 import Modal from "../../components/Common/Modal";
 import AddExpenseForm from "../../components/Expense/AddExpenseForm";
